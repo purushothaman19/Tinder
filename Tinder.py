@@ -2,8 +2,8 @@ from selenium import webdriver
 import time
 from selenium.common.exceptions import NoSuchElementException
 
-E_MAIL = 'purushjames@gmail.com'
-PASSWORD = 'fubkoc-vongY6-hudfyh'
+E_MAIL = 'YOUR MAIL'
+PASSWORD = 'YOUR PASSWORD'
 
 chrome_driver_path = '/Users/purush/Development/chromedriver'
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
